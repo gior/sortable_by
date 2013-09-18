@@ -2,30 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a43aad40-0197-4c84-92b5-6f11cfddbd9b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/factories.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sortable_by.gemspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sortable_by.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/sortable_by/sortable_by_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sortable_by/version.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/factories.rb" afterPath="$PROJECT_DIR$/spec/factories.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sortable_by.gemspec" afterPath="$PROJECT_DIR$/sortable_by.gemspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sortable_by.iml" afterPath="$PROJECT_DIR$/.idea/sortable_by.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sortable_by.rb" afterPath="$PROJECT_DIR$/lib/sortable_by.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/sortable_by/sortable_by_spec.rb" afterPath="$PROJECT_DIR$/spec/sortable_by/sortable_by_spec.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/spec_helper.rb" afterPath="$PROJECT_DIR$/spec/spec_helper.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sortable_by.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="a43aad40-0197-4c84-92b5-6f11cfddbd9b" time="1379325333421" ignored="false" />
-    <file path="/sortable_by.gemspec" changelist="a43aad40-0197-4c84-92b5-6f11cfddbd9b" time="1379348807534" ignored="false" />
+    <file path="/Dummy.txt" changelist="a43aad40-0197-4c84-92b5-6f11cfddbd9b" time="1379495874307" ignored="false" />
+    <file path="/sortable_by.gemspec" changelist="a43aad40-0197-4c84-92b5-6f11cfddbd9b" time="1379514231174" ignored="false" />
     <file path="/version.rb" changelist="a43aad40-0197-4c84-92b5-6f11cfddbd9b" time="1379326819446" ignored="false" />
     <file path="/README.md" changelist="a43aad40-0197-4c84-92b5-6f11cfddbd9b" time="1379328850615" ignored="false" />
-    <file path="/sortable_by_spec.rb" changelist="a43aad40-0197-4c84-92b5-6f11cfddbd9b" time="1379351352862" ignored="false" />
-    <file path="/sortable_by.rb" changelist="a43aad40-0197-4c84-92b5-6f11cfddbd9b" time="1379345049445" ignored="false" />
+    <file path="/sortable_by_spec.rb" changelist="a43aad40-0197-4c84-92b5-6f11cfddbd9b" time="1379515909354" ignored="false" />
+    <file path="/sortable_by.rb" changelist="a43aad40-0197-4c84-92b5-6f11cfddbd9b" time="1379509161891" ignored="false" />
     <file path="/services.rb" changelist="a43aad40-0197-4c84-92b5-6f11cfddbd9b" time="1379347114043" ignored="false" />
     <file path="$PROJECT_DIR$/../profy/spec/models/service_spec.rb" changelist="a43aad40-0197-4c84-92b5-6f11cfddbd9b" time="1379347620934" ignored="false" />
     <file path="/service_spec.rb" changelist="a43aad40-0197-4c84-92b5-6f11cfddbd9b" time="1379347535156" ignored="false" />
     <file path="/temp.rb" changelist="a43aad40-0197-4c84-92b5-6f11cfddbd9b" time="1379347836327" ignored="false" />
-    <file path="/spec_helper.rb" changelist="a43aad40-0197-4c84-92b5-6f11cfddbd9b" time="1379351104933" ignored="false" />
+    <file path="/spec_helper.rb" changelist="a43aad40-0197-4c84-92b5-6f11cfddbd9b" time="1379516029260" ignored="false" />
+    <file path="/factories.rb" changelist="a43aad40-0197-4c84-92b5-6f11cfddbd9b" time="1379511851431" ignored="false" />
+    <file path="/.gitignore" changelist="a43aad40-0197-4c84-92b5-6f11cfddbd9b" time="1379516195250" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,16 @@
           <file leaf-file-name="sortable_by.gemspec" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/sortable_by.gemspec">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="23" column="51" selection-start="1064" selection-end="1064" vertical-scroll-proportion="0.0">
+                <state line="27" column="22" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name=".rspec" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.rspec">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -59,25 +69,25 @@
           <file leaf-file-name="spec_helper.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="3" column="11" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
+                <state line="10" column="9" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="sortable_by_spec.rb" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="sortable_by_spec.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/spec/sortable_by/sortable_by_spec.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="8" column="36" selection-start="226" selection-end="226" vertical-scroll-proportion="0.26785713">
+                <state line="10" column="14" selection-start="297" selection-end="297" vertical-scroll-proportion="-1.75">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="factories.rb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/spec/factories.rb">
+          <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="4" column="14" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
+                <state line="17" column="10" selection-start="159" selection-end="159" vertical-scroll-proportion="0.5019685">
                   <folding />
                 </state>
               </provider>
@@ -95,7 +105,16 @@
           <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Gemfile">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                <state line="4" column="13" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Gemfile.lock" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="1" column="0" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
                   <folding />
                 </state>
               </provider>
@@ -105,10 +124,19 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="sortable_by.rb" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="sortable_by.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/lib/sortable_by.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="5" column="61" selection-start="125" selection-end="125" vertical-scroll-proportion="0.1494024">
+                <state line="25" column="6" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="factories.rb" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/spec/factories.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="4" column="77" selection-start="81" selection-end="81" vertical-scroll-proportion="0.119521916">
                   <folding />
                 </state>
               </provider>
@@ -137,13 +165,14 @@
         <option value="$PROJECT_DIR$/lib/sortable_by/version.rb" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Rakefile" />
-        <option value="$PROJECT_DIR$/lib/sortable_by.rb" />
         <option value="$PROJECT_DIR$/spec/factories/services.rb" />
         <option value="$PROJECT_DIR$/spec/factories/sortable_by.rb" />
-        <option value="$PROJECT_DIR$/sortable_by.gemspec" />
+        <option value="$PROJECT_DIR$/lib/sortable_by.rb" />
         <option value="$PROJECT_DIR$/spec/factories.rb" />
+        <option value="$PROJECT_DIR$/sortable_by.gemspec" />
         <option value="$PROJECT_DIR$/spec/spec_helper.rb" />
         <option value="$PROJECT_DIR$/spec/sortable_by/sortable_by_spec.rb" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -179,7 +208,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -264,6 +292,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -425,23 +454,23 @@
     <frame x="64" y="-4" width="1857" height="1205" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2498615" sideWeight="0.67007434" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20054644" sideWeight="0.67007434" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -505,47 +534,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/sortable_by/version.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="24" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.rspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="21" selection-start="472" selection-end="472" vertical-scroll-proportion="0.8484849">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Rakefile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sortable_by.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="61" selection-start="125" selection-end="125" vertical-scroll-proportion="0.1494024">
           <folding />
         </state>
       </provider>
@@ -557,30 +548,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sortable_by.gemspec">
+    <entry file="file://$PROJECT_DIR$/lib/sortable_by.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="51" selection-start="1064" selection-end="1064" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+    <entry file="file://$PROJECT_DIR$/lib/sortable_by/version.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="11" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
+        <state line="1" column="24" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE.txt">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="21" selection-start="472" selection-end="472" vertical-scroll-proportion="0.8484849" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sortable_by.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="22" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.rspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sortable_by.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="6" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/factories.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="14" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
+        <state line="4" column="77" selection-start="81" selection-end="81" vertical-scroll-proportion="0.119521916">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="9" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/sortable_by/sortable_by_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="36" selection-start="226" selection-end="226" vertical-scroll-proportion="0.26785713">
+        <state line="10" column="14" selection-start="297" selection-end="297" vertical-scroll-proportion="-1.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="10" selection-start="159" selection-end="159" vertical-scroll-proportion="0.5019685">
           <folding />
         </state>
       </provider>

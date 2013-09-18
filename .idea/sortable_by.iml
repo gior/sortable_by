@@ -13,10 +13,12 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="activemodel (v4.0.0, RVM: ruby-1.9.3-p448) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v4.0.0, RVM: ruby-1.9.3-p448) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="atomic (v1.1.12, RVM: ruby-1.9.3-p448) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="builder (v3.1.4, RVM: ruby-1.9.3-p448) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.3.5, RVM: ruby-1.9.3-p448) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="factory_girl (v4.2.0, RVM: ruby-1.9.3-p448) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="factory_girl (v3.6.2, RVM: ruby-1.9.3-p448) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="i18n (v0.6.5, RVM: ruby-1.9.3-p448) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="minitest (v4.7.5, RVM: ruby-1.9.3-p448) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.7.9, RVM: ruby-1.9.3-p448) [gem]" level="application" />
