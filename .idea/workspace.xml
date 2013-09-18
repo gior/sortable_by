@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a43aad40-0197-4c84-92b5-6f11cfddbd9b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/factories.rb" afterPath="$PROJECT_DIR$/spec/factories.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sortable_by.rb" afterPath="$PROJECT_DIR$/lib/sortable_by.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/sortable_by/sortable_by_spec.rb" afterPath="$PROJECT_DIR$/spec/sortable_by/sortable_by_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/spec_helper.rb" afterPath="$PROJECT_DIR$/spec/spec_helper.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sortable_by.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,7 +68,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="sortable_by_spec.rb" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="sortable_by_spec.rb" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/spec/sortable_by/sortable_by_spec.rb">
               <provider selected="true" editor-type-id="text-editor">
                 <state line="43" column="15" selection-start="1139" selection-end="1139" vertical-scroll-proportion="1.4397322">
@@ -121,10 +117,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="sortable_by.rb" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="sortable_by.rb" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/sortable_by.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="31" column="18" selection-start="649" selection-end="649" vertical-scroll-proportion="0.6713147">
+                <state line="9" column="108" selection-start="171" selection-end="171" vertical-scroll-proportion="0.2689243">
                   <folding />
                 </state>
               </provider>
@@ -168,8 +164,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/spec/factories.rb" />
         <option value="$PROJECT_DIR$/spec/spec_helper.rb" />
-        <option value="$PROJECT_DIR$/lib/sortable_by.rb" />
         <option value="$PROJECT_DIR$/spec/sortable_by/sortable_by_spec.rb" />
+        <option value="$PROJECT_DIR$/lib/sortable_by.rb" />
       </list>
     </option>
   </component>
@@ -628,16 +624,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sortable_by.rb">
+    <entry file="file://$PROJECT_DIR$/spec/sortable_by/sortable_by_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="18" selection-start="649" selection-end="649" vertical-scroll-proportion="0.6713147">
+        <state line="43" column="15" selection-start="1139" selection-end="1139" vertical-scroll-proportion="1.4397322">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/sortable_by/sortable_by_spec.rb">
+    <entry file="file://$PROJECT_DIR$/lib/sortable_by.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="15" selection-start="1139" selection-end="1139" vertical-scroll-proportion="1.4397322">
+        <state line="9" column="108" selection-start="171" selection-end="171" vertical-scroll-proportion="0.2689243">
           <folding />
         </state>
       </provider>

@@ -2,19 +2,8 @@ require "sortable_by/version"
 require 'active_record'
 
 module SortableBy
-  #attr_accessor :default_sort_direction do
-  #  {
-  #      :title => 'asc',
-  #      :price => 'asc',
-  #      :position => 'asc'
-  #  }
-  #end
 
-  @@default_sort_direction = {
-        #:title => 'asc',
-        #:price => 'asc',
-        #:position => 'asc'
-  }
+  @@default_sort_direction = { }
 
   def default_sort_direction
     @@default_sort_direction
