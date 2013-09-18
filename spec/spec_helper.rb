@@ -11,9 +11,6 @@ ActiveRecord::Schema.define do
 
   create_table :sortable_classes do |t|
     t.string  :title
+    t.string  :code
   end
-end
-
-class SortableClass < ActiveRecord::Base
-  extend SortableBy
 end
