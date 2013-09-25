@@ -16,7 +16,7 @@ module SortableBy
     @@default_sort_direction[attribute] = direction
   end
 
-  def sort_by(query, attribute, direction=nil)
+  def sort_by(attribute, direction=nil, query=self)
     direction ||= default_sort_direction[attribute]
     query.order("#{attribute.to_s} " + direction)
   end
