@@ -30,18 +30,19 @@ describe SortableBy do
   end
 
   it "can be sorted in descending order" do
-    #code should have been defined with descending order
+    # if :code has been defined with descending order
     result = SortableClass.sort_by @query, :code
     result.should == [@sortable2, @sortable1]
   end
 
   it "can be sorted in custom order" do
-    result = SortableClass.sort_by @query, :title, 'asc'
+    # we can overrride the default set in the class declaration
+    result = SortableClass.sort_by @query, :code, 'asc'
     result.should == [@sortable1, @sortable2]
   end
 
-  it "can set the default order for ONE attribute" do
-    #all has been done in the class definition usind sortable_by :title
+  it "can set the default order for ONE attribute at a time" do
+    #all has been done in the class definition using sortable_by :title
     SortableClass.default_sort_direction[:title].should == 'asc'
   end
 end

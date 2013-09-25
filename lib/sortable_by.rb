@@ -2,7 +2,6 @@ require "sortable_by/version"
 require 'active_record'
 
 module SortableBy
-
   @@default_sort_direction = { }
 
   def default_sort_direction
@@ -21,6 +20,6 @@ module SortableBy
     direction ||= default_sort_direction[attribute]
     query.order("#{attribute.to_s} " + direction)
   end
-end
 
-ActiveRecord::Base.extend SortableBy
+  ActiveRecord::Base.extend SortableBy
+end
