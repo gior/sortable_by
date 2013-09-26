@@ -1,6 +1,11 @@
 # SortableBy
 
-Sort an ActiveRecord model by any attribute and represent it through a (possibly inverted) arrow image.
+Easily sort an ActiveRecord model by any attribute and display the results in a speaking fashion.
+
+## DISCLAIMER: Work in progress
+This gem is still in development.
+It's being developed "readme first" in order to identify target features clearly.
+Seeing a feature here does not mean it's available.
 
 ## Installation
 
