@@ -12,7 +12,7 @@ Seeing a feature here does not mean it's available.
 Add this line to your application's Gemfile:
 
 ```ruby
-    gem 'sortable_by'
+gem 'sortable_by'
 ```
 
 And then execute:
@@ -28,7 +28,7 @@ Or install it yourself as:
 **Declaring sortable attributes in the model**
 ```ruby
 sortable_by :name
-sortable_by :date_of_birth, :direction => :descending
+sortable_by :date_of_birth, 'desc'
 ```
 
 **Enabling the view**
@@ -40,7 +40,7 @@ sortable_by :date_of_birth, :direction => :descending
 2. add controls:
 ```ruby
 <%= sort_by :name %>
-<%= sort_by :date_of_birth, “Age”, 'descending', 'invert' %>
+<%= sort_by :date_of_birth, “Age”, 'desc', 'invert' %>
 ```
 
 sort_by follows this signature:
@@ -58,13 +58,14 @@ The simplest form you could write to sort by price a list of products is:
 </form>
 ```
 
-**Note** method was set to 'GET' in order to call the index action without touching routes.
-Beware of size limits for a GET parameter string (NNN chars). If your parameters are likely to exceed this limit, use a standard POST request (just remove the method attribute) and route it accordingly in your routes.rb file.
+**Note** form method was set to GET in order to allow unique urls (and to call the index action without touching routes).
+Beware of size limits for a GET parameter string. If your parameters are too bulky, use a standard POST request (just remove the method attribute) and route it accordingly in your routes.rb file.
 
 ## Contributing
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+3. Write your **tests** and code
+4. Commit your changes (`git commit -am 'Add some feature'`)
+5. Push to the branch (`git push origin my-new-feature`)
+6. Create new Pull Request
